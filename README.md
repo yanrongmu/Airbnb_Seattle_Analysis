@@ -32,7 +32,7 @@ The datasets used in this project can be found [here](https://www.kaggle.com/air
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@owenihelen/where-to-stay-for-next-trip-to-seattle-8a6525b655a6).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
